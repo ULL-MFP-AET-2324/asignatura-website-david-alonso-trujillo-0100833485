@@ -16,6 +16,8 @@ Se han creado un total de tres websites:
 - [Website de la práctica Microbit](https://ull-mfp-aet-2324-alu0100833485.github.io/2-tarea-de-microbit-Joanadt98/)
     - Se modifico el formato.
     - Se modifico el título.
-- [Website de la organización ULL]
-- [Website de la organización]
+- [Website de la organización ULL](https://ull-mfp-aet-2324.github.io/asignatura-website-david-alonso-trujillo-0100833485/)
+    - Se realizaron cambios y se hizo un pull request a la organización propia.
+    - Se tuvieron problemas con el push de losc ambios de codespaces hacia el repositorio. Se tuvo que usar la terminal siguiendo las instruciones, teniendo que poner diferentes comandos entre ellos git pull rebase; git configure pull
+- [Website de la organización propia](https://ull-mfp-aet-2324.github.io/asignatura-website-david-alonso-trujillo-0100833485/)
 
